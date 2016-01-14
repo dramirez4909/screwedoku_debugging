@@ -42,12 +42,13 @@ Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
 4. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
 5. Push this code to origin, make sure it shows up on github.
 6. Start on the `master` branch, which has a working version of the game.
-7. Run `bundle install`
-8. Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
 
 ### Gameplay
 
 Beat all the levels.  You can list all the levels by running `git branch`.
+
+
+0. Run `ruby sudoku.rb` on the master branch and fill a few spots to get a feel for how the game works with correct code.
 
 Starting with `level-1`, for each level:
 
@@ -59,7 +60,7 @@ Starting with `level-1`, for each level:
 6. Run `ruby sudoku.rb` and make sure the game plays like the master version.
 7. Add and commit your change once the code works.
 
-Make sure you do the `final-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
+Make sure you do the `final-level` and `super-evil-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
 
 
 ## You finished???
