@@ -41,7 +41,7 @@ If you get stuck and need ideas, reference our [debugging cheatsheet][debugging 
 2. Run `bundle install`.
 3. Start on the `master` branch, which has a working version of the game.
 
-[zip]:./screwdoku.zip
+[zip]:./screwedoku.zip?raw=true
 
 ### Gameplay
 
@@ -69,7 +69,9 @@ Check out the `final-level` and `super-evil-level` at the end.
 ### Bonus
 
 If you'd like, change the git `origin` to point at a Github repo you create and
-push your completed project there.
+push your completed project there. **_Hint:_** You'll want to push **all** of your branches. Maybe [Google][google] can help you find out how...
 
 Make up three new levels (each on different branches) with three new tricky
 errors. Get another group that has finished to try them.
+
+[google]: https://www.google.com/
